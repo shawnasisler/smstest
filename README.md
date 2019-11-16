@@ -1,0 +1,2 @@
+# smstest
+print("Hello, world!)
